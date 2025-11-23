@@ -1,2 +1,2 @@
-# delta-project
+# Demo
 This is demo for Git and Github
